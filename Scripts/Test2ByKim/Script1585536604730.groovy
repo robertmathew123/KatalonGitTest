@@ -18,7 +18,7 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('http://lifecharger.org/')
+WebUI.navigateToUrl('https://www.katalon.com/')
 
 WebUI.closeBrowser()
 
